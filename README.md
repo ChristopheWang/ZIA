@@ -1,8 +1,6 @@
 Zia
 ===
 
-HTTP Server in C++ using Windows Sockets
+Implementation of an HTTP Server in C++ 
 
-Epitech Project (http://www.epitech.eu)
-
-Subject: Check Zia Subject.pdf
+- Cross Platform Windows / Unix
